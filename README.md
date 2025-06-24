@@ -16,7 +16,7 @@ Visualized fare distributions showing survivors paid 2X median fare
 Revealed passengers with 1-3 family members had optimal survival odds
 
 The analysis transforms historical tragedy into quantifiable insights, demonstrating how socioeconomic factors dramatically influenced life-or-death outcomes during humanity's most infamous maritime disaster."
-## 🔍 Key Insights (Preview)
+## 🔍 Key Insights:
 | Factor          | Survival Rate | Mortality Rate |
 |-----------------|---------------|----------------|
 | 1st Class       | 63%           | 37%            |
